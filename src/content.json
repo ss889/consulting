@@ -1,0 +1,55 @@
+{
+  "name": "Sadikul Saber",
+  "title": "AI Consultant",
+  "headline": "Helping organizations harness the power of artificial intelligence",
+  "bio": "I'm an AI consultant specializing in helping businesses implement machine learning solutions, optimize their AI strategies, and build AI-native applications. With expertise in LLMs, computer vision, and data engineering, I partner with teams to turn AI concepts into production systems.",
+  "profileImage": "assets/profile.jpg",
+  "resume": "assets/resume.pdf",
+  "services": [
+    {
+      "title": "AI Strategy Consulting",
+      "description": "Assess your AI readiness, identify high-impact opportunities, and develop a roadmap for implementation."
+    },
+    {
+      "title": "LLM Integration",
+      "description": "Integrate large language models into your workflows, from chatbots to content generation and code assistance."
+    },
+    {
+      "title": "ML Model Development",
+      "description": "Build and deploy custom machine learning models for classification, prediction, and optimization tasks."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Customer Support Chatbot",
+      "description": "Built a context-aware chatbot using RAG (Retrieval-Augmented Generation) and LLMs that reduced support ticket volume by 40%. Integrated with existing knowledge bases and Slack workflows.",
+      "image": "assets/project.jpg",
+      "liveLink": "#!",
+      "sourceCode": "#!"
+    },
+    {
+      "title": "Predictive Analytics Pipeline",
+      "description": "Developed an end-to-end ML pipeline for forecasting customer churn. Used feature engineering, XGBoost models, and automated retraining. Resulted in 25% reduction in churn rate.",
+      "image": "assets/project.jpg",
+      "liveLink": "#!",
+      "sourceCode": "#!"
+    },
+    {
+      "title": "Document Intelligence System",
+      "description": "Created a document processing system using computer vision and OCR to automate data extraction. Processed 10,000+ documents monthly with 95% accuracy, saving 200+ hours of manual work."
+    }
+  ],
+  "contact": {
+    "callToAction": "Let's build something amazing together. Get in touch!",
+    "email": "ss889@gmail.com",
+    "social": {
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://linkedin.com/in/",
+      "github": "https://github.com/"
+    }
+  },
+  "footer": {
+    "copyright": "Sadikul Saber",
+    "year": 2024
+  }
+}
